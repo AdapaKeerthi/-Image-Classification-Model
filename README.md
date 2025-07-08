@@ -13,11 +13,11 @@ This project builds a CNN with PyTorch to classify images from the CIFAR-10 data
 - Mentor: Neela Santhosh Kumar
 # Features
        
-  ✅ Uses CIFAR-10 Dataset: 10 classes of 32x32 RGB images 
-  ✅ CNN Architecture: 3 Conv layers + MaxPooling     
-  ✅ Dropout for Regularization: Prevents overfitting           
-  ✅ GPU Acceleration: CUDA support if available      
-  ✅ Training Visualization: Accuracy plotted over epochs   
+-  Uses CIFAR-10 Dataset: 10 classes of 32x32 RGB images
+-  CNN Architecture: 3 Conv layers + MaxPooling
+-  Dropout for Regularization: Prevents overfitting
+-  GPU Acceleration: CUDA support if available
+-  Training Visualization: Accuracy plotted over epochs   
 # Techniques Used
                             
  - Convolution Layers: Automatically learn visual features 
